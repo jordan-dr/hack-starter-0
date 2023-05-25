@@ -27,6 +27,9 @@ scss/main.css
 node_modules
 bower_components
 
+# DR Out
+tmp/dryrun
+
 # Editors
 .idea
 .vscode
